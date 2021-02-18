@@ -1,0 +1,36 @@
+{
+  "name": "react-quiz",
+  "version": "2.0.0",
+  "private": false,
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^16.14.0",
+    "react-icons": "^4.2.0",
+    "react-scripts": "2.0.4",
+    "react-transition-group": "^1.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@types/bootstrap": "^5.0.5"
+  }
+}
